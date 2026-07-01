@@ -1,0 +1,214 @@
+# Unity generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+*.tmp
+*.swp
+*.swo
+*~
+
+# Unity crash reports
+sysinfo.txt
+
+# Unity packages
+/Packages/packages-lock.json
+
+# Visual Studio / Rider
+/.vs/
+/.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Asset bundles
+*.unity3d
+
+# Unity Asset Store
+/[Aa]ssets/AssetStoreTools*
+
+# TextMesh Pro
+/[Aa]ssets/TextMesh*Pro/Examples/
+/[Aa]ssets/TextMesh*Pro/Documentation/
+/[Aa]ssets/TextMesh*Pro/Tests/
+
+# Addressables
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# Burst
+/[Aa]ssets/Burst*
+
+# Collections
+/[Aa]ssets/Collections*
+
+# Input System
+/[Aa]ssets/[Ii]nput[Ss]ystem*
+
+# Unity UI
+/[Aa]ssets/[Uu]I*
+
+# Visual Scripting
+/[Aa]ssets/[Vv]isual[Ss]cripting*
+
+# Shader Graph
+/[Aa]ssets/[Ss]hader[Gg]raph*
+
+# Timeline
+/[Aa]ssets/[Tt]imeline*
+
+# Cinemachine
+/[Aa]ssets/[Cc]inemachine*
+
+# ProBuilder
+/[Aa]ssets/[Pp]ro[Bb]uilder*
+
+# Polybrush
+/[Aa]ssets/[Pp]olybrush*
+
+# Quick Search
+/[Aa]ssets/[Qq]uick[Ss]earch*
+
+# Settings
+/[Aa]ssets/[Ss]ettings*
+
+# Editor Coroutines
+/[Aa]ssets/[Ee]ditor[Cc]oroutines*
+
+# Localization
+/[Aa]ssets/[Ll]ocalization*
+
+# Device Simulator
+/[Aa]ssets/[Dd]evice[Ss]imulator*
+
+# Memory Profiler
+/[Aa]ssets/[Mm]emory[Pp]rofiler*
+
+# Unity Collaborate
+/[Aa]ssets/[Uu]nite[Cc]ollaborate*
+
+# Unity Test Framework
+/[Aa]ssets/[Uu]nite[Tt]est[Ff]ramework*
+
+# Version Control
+/[Aa]ssets/[Vv]ersion[Cc]ontrol*
+
+# Unity Transport
+/[Aa]ssets/[Uu]nite[Tt]ransport*
+
+# Unity Analytics
+/[Aa]ssets/[Uu]nite[Aa]nalytics*
+
+# Unity Purchasing
+/[Aa]ssets/[Uu]nite[Pp]urchasing*
+
+# Unity Ads
+/[Aa]ssets/[Uu]nite[Aa]ds*
+
+# Unity Recorder
+/[Aa]ssets/[Uu]nite[Rr]ecorder*
+
+# Unity Live Capture
+/[Aa]ssets/[Uu]nite[Ll]ive[Cc]apture*
+
+# Unity Reflect
+/[Aa]ssets/[Uu]nite[Rr]eflect*
+
+# Unity Simulation
+/[Aa]ssets/[Uu]nite[Ss]imulation*
+
+# Unity Multiplayer
+/[Aa]ssets/[Uu]nite[Mm]ultiplayer*
+
+# Unity AR
+/[Aa]ssets/[Uu]nite[Aa]r*
+
+# Unity XR
+/[Aa]ssets/[Uu]nite[Xx]r*
+
+# Unity WebGL
+/[Aa]ssets/[Ww]eb[Gg]L*
+
+# Unity Android
+/[Aa]ssets/[Aa]ndroid*
+
+# Unity iOS
+/[Aa]ssets/[Ii]OS*
+
+# Unity Windows
+/[Aa]ssets/[Ww]indows*
+
+# Unity Linux
+/[Aa]ssets/[Ll]inux*
+
+# Unity macOS
+/[Aa]ssets/[Mm]ac[Oo][Ss]*
+
+# Unity tvOS
+/[Aa]ssets/[Tt]v[Oo][Ss]*
+
+# Unity Switch
+/[Aa]ssets/[Ss]witch*
+
+# Unity Xbox
+/[Aa]ssets/[Xx]box*
+
+# Unity PlayStation
+/[Aa]ssets/[Pp]lay[Ss]tation*
+
+# Unity Stadia
+/[Aa]ssets/[Ss]tadia*
+
+# Additional Unity files
+ExportedObj/
+*.stackdump
+*.unitypackage
+
+# Unity Hub
+UnityHub/
+
+# Auto-generated Unity files
+/[Aa]uto[Ss]ave*/
+*.autosave
+
+# Unity Collaborate
+/[Aa]ssets/[Uu]nite[Cc]ollaborate*/
+
+# Unity Cloud Build
+/[Aa]ssets/[Uu]nite[Cc]loud[Bb]uild*/
+
+# Unity Package Manager
+/[Aa]ssets/[Uu]nite[Pp]ackage[Mm]anager*/
+
+# Build artifacts for specific platforms
+/[Aa]ssets/[Ss]treamingAssets/[Aa]ndroid/
+/[Aa]ssets/[Ss]treamingAssets/[Ii]OS/
+/[Aa]ssets/[Ss]treamingAssets/[Ww]eb[Gg]L/
+
+# Unity Test Runner
+/[Aa]ssets/[Tt]est[Rr]unner*/
+
+# Custom folders (uncomment if needed)
+/[Aa]ssets/-MATERIAL/
+/[Aa]ssets/-MESH/
+/[Aa]ssets/-SCRIPTS/
